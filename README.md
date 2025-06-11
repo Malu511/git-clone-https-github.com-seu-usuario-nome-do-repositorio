@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
+
     <title>Vida no Campo e na Cidade</title>
     <style>
         body {
